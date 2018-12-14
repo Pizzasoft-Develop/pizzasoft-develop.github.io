@@ -1,2 +1,2 @@
 # pizzasoft-develop.github.io
-pizzasoftのホームページ
+pizzasoftのホームページです。
