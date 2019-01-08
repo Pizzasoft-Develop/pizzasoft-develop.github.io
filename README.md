@@ -1,5 +1,6 @@
 # pizzasoft-develop.github.io
 pizzasoftのホームページです。
+メールアドレス表示したぜ
 <<<<<<< HEAD
 It's pizzasoft's homepage.
 =======
